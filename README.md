@@ -8,7 +8,7 @@ The Spamhaus Policy Block List (PBL) is a list of all dynamic IP addresses and s
 1. Install python and required dependencies.
 
 2. ******STUDY THE CSV FILE AND FORMAT THE DATA IN A SIMILAR MANNER. CSV MUST INCLUDE an "Email", "Website" and "Last Name" COLUMNS WITH THE EXACT SAME FORMAT.
-I used this to guess company emails based on first and last name + domain. Thus domain should not contain "https://www." and it should only contain abc.com
+I used this to guess company emails based on first and last name + domain. Thus domain should NOT contain "https://www." and it should ONLY contain abc.com
 
 3. Read your csv file - Edit this Line with the path to your file
 

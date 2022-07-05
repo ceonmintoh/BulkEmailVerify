@@ -1,5 +1,6 @@
 # BulkEmailVerify
 Verify emails in bulk for free
+
 WARNING: DOING THIS WILL GET YOUR IP PUT IN THE SPAMHAUS POLICY BLACKLIST (IF IT IS NOT ALREADY LISTED). 
 
 The Spamhaus Policy Block List (PBL) is a list of all dynamic IP addresses and some static IP addresses, and is not specifically a blocklist. IPs on the PBL are not listed for sending spam or for anything they have done.

@@ -16,3 +16,5 @@ I used this to guess company emails based on first and last name + domain. Thus 
 ![2022-07-05 11_15_10-Window](https://user-images.githubusercontent.com/84612798/177257797-ed14e560-7f7c-4871-b2c3-b988fca3d301.png)
 
 4. Run verify-guessed.py
+
+5. Those emails with "TRUE" in the Verify_Email column and "FALSE" in the "Catch All" column are 95% safe to send and will not result in a hard bounce.
